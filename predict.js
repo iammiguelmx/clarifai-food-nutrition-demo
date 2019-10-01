@@ -1,5 +1,5 @@
 var myClarifaiApiKey = 'd423c20ce67147b38cd6d7d882b9b1ef';
-var myWolframAppId = 'INSERT WOLFRAM APPID';
+var myWolframAppId = 'Y3T257-6E442XGWL7';
 
 var app = new Clarifai.App({apiKey: myClarifaiApiKey});
 
